@@ -1,0 +1,23 @@
+{
+  "name": "ajs_3_platforms_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AplusIv/AJS_3_Platforms_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AplusIv/AJS_3_Platforms_node/issues"
+  },
+  "homepage": "https://github.com/AplusIv/AJS_3_Platforms_node#readme",
+  "dependencies": {
+    "@aplusiv/ajs_platforms": "^1.0.0"
+  }
+}
